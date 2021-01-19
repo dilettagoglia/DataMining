@@ -1,6 +1,24 @@
 # Data Mining Project
+Final project for the [Data Mining Course A.Y. 2020/2021](http://didawiki.cli.di.unipi.it/doku.php/magistraleinformatica/dmi/start) @ University of Pisa
 The project consists in data analysis based on the use of data mining tools.
 
+### Learning Goals
+- Fundamental concepts of data knowledge and discovery.
+- Data understanding
+- Data preparation
+- Clustering
+- Classification & Regression
+- Pattern Mining and Association Rules
+- Outlier Detection
+- Time Series Analysis
+- Sequential Pattern Mining
+- Ethical Issues
+
+### Further info:
+Final grade: 30/30
+
+
+# Project Description
 ## Task 1 Data Understanding and Preparation
 
 Explore the dataset with analytical tools and describe data semantics, assessing data quality, the distribution of the variables and correlations.
@@ -65,4 +83,3 @@ Consider the problem of mining frequent sequential patterns. To address the task
 ### Optional Task: 
 Eextend the algorithm and analysis considering one
 or more temporal constraints.
-
